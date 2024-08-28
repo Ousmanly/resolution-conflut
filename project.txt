@@ -1,2 +1,3 @@
-Une liste d'étapes pour un projet
+Une liste d'étapes
 Etape1 ajouter depuis featureA
+Etape 2 ajuter depuis featureB
