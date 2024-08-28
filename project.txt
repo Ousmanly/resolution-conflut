@@ -1,1 +1,2 @@
-Une liste d'étapes pour un projet
+Une liste d'étapes
+Etape 2 ajuter depuis featureB
